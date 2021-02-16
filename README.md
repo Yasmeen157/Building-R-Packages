@@ -1,5 +1,3 @@
-# Building-R-Packages
-Building-R-Packages 
 ## Course 3 : Building R Packages
 Week 1 : Getting Started with R Packages
 Week 2 : Documentation and Testing
